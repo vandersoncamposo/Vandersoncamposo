@@ -112,7 +112,7 @@ Gerontologist with a postgraduate degree in Computer Vision. I work at the inter
 <br />
 ## Projects:
 
-* **Machine Learning para detectar câncer de mama:** 
+
 
 
 
