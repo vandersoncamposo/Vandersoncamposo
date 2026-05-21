@@ -1,4 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/-vandersoncamposoliveira-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandersoncamposoliveira/) [![Medium](https://img.shields.io/badge/-@vandersoncamposoliveira1-000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@vandersoncamposoliveira1/) [![Email](https://img.shields.io/badge/-vandersoncamposoliveira1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vandersoncamposoliveira1@gmail.com) 
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersoncamposoliveira/)](https://www.linkedin.com/in/vandersoncamposoliveira/)
+  [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square=medium&logoColor=white)](https://medium.com/@vandersoncamposoliveira1)
+  [![Email](https://img.shields.io/badge/-vandersoncamposoliveira1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vandersoncamposoliveira1@gmail.com) 
 #  Hi, I'm Vanderson
  
 <sub>*Data Scientist · Healthcare AI & Computer Vision*</sub>
